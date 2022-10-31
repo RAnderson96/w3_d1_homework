@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    font-family: helvetica, Arial, sans-serif;
+}
+
+body > header {
+    color: white;
+    background-color: dodgerblue;
+    padding: 16px;
+}
+
+header > ul {
+    list-style: none;
+    
+}
+
+nav > ul > li > a {      
+    color: white;     
+  }        
+
+
+body > footer {
+    background-color: dodgerblue;
+    padding: 16px;
+}
+
+body > footer > p {
+    margin: auto;
+    text-align: center;
+    color: white
+}
+
+article {
+    margin: auto;
+    width: 80%;
+}
+
+#ccncomment {
+    margin: auto;
+    width: 100%
+}
+
+#comment_sub_button {
+    float:right;
+}
+
+aside {
+    padding-top: 20px;
+}
